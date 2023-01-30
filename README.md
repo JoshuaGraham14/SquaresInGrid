@@ -1,5 +1,5 @@
 # SquaresInGrid
-Calculates and plots the number of squares which can be found given a set of points on a cartesian grid.
+Calculates and plots the number of squares which can be found given a set of points on a 2d cartesian grid.
 
 ## Example 1
 Given 30 randomly generated points between x,y = -3 and 5:
